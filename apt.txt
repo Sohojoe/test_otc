@@ -1,0 +1,8 @@
+curl
+git
+xvfb
+ffmpeg
+cmake
+libopenmpi-dev
+python3-dev
+zlib1g-dev
